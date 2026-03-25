@@ -21,7 +21,7 @@ Currently designed for local execution via Vite dev server. A static build will 
 Requires Node.js installed.
 
 ```bash
-git clone https://github.com/Arkoparno/NovaPulse.git
+git clone
 cd NovaPulse
 npm install
 npm run dev
