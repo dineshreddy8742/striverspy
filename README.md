@@ -1,3 +1,4 @@
+![WhatsApp Image 2026-03-26 at 4 00 52 PM](https://github.com/user-attachments/assets/385b9930-edad-409a-a71c-663c86e6d3b7)
 # StriversEye — Contactless Health Triage Platform
 
 An experimental clinical research tool for contactless physiological assessment using a standard RGB camera.
